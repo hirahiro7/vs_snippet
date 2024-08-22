@@ -27,13 +27,5 @@
 			"<img src=\"$1\" alt=\"\" m:id=\"IF:VIEW_PC\" />",
 			"<img src=\"$2\" alt=\"\" m:id=\"IF_NOT:VIEW_PC\" />",
 		]
-	},
-	"aaa": {
-		"prefix": "aaaa",
-		"body": [
-			"aaa",
-			"aaa",
-		]
 	}
-
 }
