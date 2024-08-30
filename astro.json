@@ -24,6 +24,12 @@
 			"{ $1 && ($2)}",
 		]
 	},
+	"and2": {
+		"prefix": "_&&",
+		"body": [
+			"{ $1 && ($2)}",
+		]
+	},
 	"ternaryOperator": {
 		"prefix": "_?",
 		"body": [
